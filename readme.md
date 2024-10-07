@@ -1,5 +1,4 @@
 
-Certainly! Below is the README file for your `RideSharingService` smart contract:
 
 ---
 
