@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-10-06 at 17 11 50_86def00f](https://github.com/user-attachments/assets/052d43c0-6cc9-4663-ba83-bb5179143886)
+
 Certainly! Below is the README file for your `RideSharingService` smart contract:
 
 ---
