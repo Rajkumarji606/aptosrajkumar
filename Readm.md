@@ -1,6 +1,3 @@
-Certainly! Below is the README file for your `RideSharingService` smart contract:
-
----
 
 # Ride Sharing Service Smart Contract
 
